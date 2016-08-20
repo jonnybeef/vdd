@@ -1,0 +1,1 @@
+where files get updated to for website use: /sites/drupal7/sites/default/files$

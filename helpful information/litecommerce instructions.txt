@@ -1,0 +1,4 @@
+To ensure the safety of your LiteCommerce installation, the file "install.php" has been renamed to "ec73d35949b70e4d263996fd5033bdd1.php".
+Should you decide choose to re-install LiteCommerce, make sure to rename the file "ec73d35949b70e4d263996fd5033bdd1.php" back to "install.php"
+Your auth code for running install.php in the future is: B42ANAS4 
+PLEASE WRITE THIS CODE DOWN UNLESS YOU ARE GOING TO REMOVE "ec73d35949b70e4d263996fd5033bdd1.php"
